@@ -31,7 +31,7 @@ call plug#end()
 
 syntax on
 filetype on
-colorscheme cobalt2 "codedark gruvbox
+colorscheme gruvbox "cobalt2 codedark 
 set encoding=utf-8
 set nocompatible
 set tabstop=4 softtabstop=4
